@@ -1,0 +1,49 @@
+                    Introdução ao Git e ao GitHub
+
+        Entendendo o que é Git e sua importância
+
+    O Git foi criado em 2005 pelo Linus Torvalds, é um sistema de código distribuído.
+
+        Comandos básicos para um bom desempenho no terminal
+
+    • Limpar a tela: cls
+    • Navegar entre as pastas: cd
+    • Mkdir + nome da pasta = cria uma pasta no disk(C:)
+    • Del + nome da pasta = deleta
+
+        Tópicos fundamentais para entender o funcionamento do Git.
+
+    SHA1
+    A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA.)
+    A encriptação gera conjunto de caracteres identificador de 40 dígitos.
+    É uma forma curta de representar um arquivo.
+        
+        Objetos internos do Git
+
+    • Blobs
+    • Trees
+    • Commits
+
+        Chave SSH e Token
+        Criando chave SSH
+
+    ssh-keygen -t ed25519 -C + o email
+    Após enter e colocar a senha
+
+        Comandos com Git
+
+        Iniciando o Git e criando um commit
+
+    • Iniciar o repositório do Git: git init
+    • Dar início ao versionamento e conhecer os primeiros comandos: git add *
+    • Criar o primeiro commit usando: git commit -m ""
+
+        Criando um repositório
+
+    • Para ver pasta oculta: ls -a
+    • Ver como estão as coisas: git status
+    • Listar a pasta: ls
+    • Traz as listas de todas as configurações que estão no Git: git config –list
+
+    
+

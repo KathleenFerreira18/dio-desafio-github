@@ -1,0 +1,95 @@
+                Introdução ao Pensamento Computacional
+
+        Pensamento computacional?
+
+    Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador. 
+
+    • Sistemático e eficiente tanto na formulação como na resolução de problemas 
+    • Tem que ser utilizado de uma maneira que humanos & máquinas sejam capazes de resolver 
+    • Não é uma disciplina acadêmica, sim, uma habilidade generalista. (Matemática, leitura e escrita)
+
+        Baseado em 4 pilares:
+
+    1. Decomposição: dividir um problema complexo em subproblemas.
+    2. Reconhecimento de padrões: Identificar padrões ou tendência.
+    3. Abstração: Extrapolar o conceito do problema para uma forma generalista
+    4. Design de algoritmos: Automatizar, definir passo a passo a solução do problema.
+
+        Competências
+
+    • Pensamento sistemático 
+    • Colaboração dentro da equipe 
+    • Criatividade e design 
+    • Facilitador 
+
+        Habilidades complementares
+
+    Raciocínio logico: é uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a solução de um problema.
+
+        Classificação
+
+    Indução: geralmente vem apartir de um fenômeno observado, apartir dele conseguimos extrapolar e determinar,  leis e teorias relacionados aquele fenomeno. Está relacionado a ciências experimentais, imperismo.
+
+    Dedução: Trabalho inverso da indução, onde a parte de leis e teorias você deduz previsões e explicações para aquele fenômeno. Utilizado em ciencias exatas.
+
+    Abdução: A partir de uma conclusão você  tira a premissa, apartir de algo observado você supõe outra coisa. Exemplo: a grama está molhada, logo deve ter chovido. Entao você estabelece uma premissa de que choveu e a grama molhou, nesse caso a premissa não necessariamente será verdadeira. Esse tipo de técnica é muito utilizado no processo investigativo, diagnósticos.
+
+        Aperfeiçoamento
+
+    Melhoramento, Ato de aperfeiçoar, Aprimoramento, Refinamento. Todos sinônimos, mas com o mesmo objetivo. A partir de uma solução determinar pontos de melhora e refinamento.
+
+        Pilares:
+
+        Decomposição
+
+    Primeiro passo da resolução de problemas dentro do conceito de pensamento computacional.
+
+    “Dado um problema complexo, devemos quebrá-lo em problemas menores. Portando, problemas mais fáceis e gerenciáveis.” 
+
+        Padrões
+
+    Reconhecimento de Padrões
+
+    • Modelo base
+    • Estrutura invariante
+    • Repetição
+
+    Similaridades e diferenças entre os contexto e objetos. 
+
+    Por que determinar padrões? 
+
+    Generalizar, com objetivo de obter resolução para problemas diferentes. Através de classes e categorias, onde a categoria vai depender do domínio e tipo de mídia.
+
+        Abstração
+
+    Generalização, na lógica, é a operação intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fenômenos similares.
+
+    Como classificar os dados? 
+
+    • Características 
+    • Pontos essenciais
+    • Generalizar x detalhar 
+
+    Representação de dados 
+
+    Características, identificar os pontos essenciais e descartar os detalhes.
+
+    Conceitos baseados em abstrações 
+
+    A abstração é usada em diversas áreas de conhecimento, mas dentro da computação podemos numeras algumas questões.
+
+    • Merge sort: algoritmo de pesquisa e ordenação
+    • Clusteting: algoritmo para tornar o processo mais rápido, se algum cair outros assume.
+    • Busca binária
+
+    Estruturas / tipos abstratos de dados 
+
+    • Árvore 
+    • Lista 
+    • Grafos
+
+    São estruturas que a gente cria e abstrai de tal maneira que elas não são palpáveis, conseguimos programas e cria-las. Mas, elas são abstrações de algo específico.
+
+    Máquinas de estado infinito, também é uma abstração. E a própria linguagem de programação de algo concreto do mundo real para algo abstrato.
+
+
